@@ -1,0 +1,1 @@
+echo "<img src='".get_option('bloglogo')."' width='100px' height='100px'>"
